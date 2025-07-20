@@ -11,7 +11,7 @@
 **🌐 Connect with Me**
 
 [![Portfolio](https://img.shields.io/badge/Portofolio-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://almasrzld-portofolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/almas-rizaldi-816812300)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almasrzld/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/almsrzld16)
 
 ---
