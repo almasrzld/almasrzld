@@ -40,7 +40,8 @@ Backend
 
 Dev & Cloud
 
-![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-FF9900?style=for-the-badge&logo=serverfault&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-F2B33D?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
